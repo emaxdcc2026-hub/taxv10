@@ -1,7 +1,7 @@
 {
   "id": "./index.html",
-  "name": "Tax Refund, Currency & Installment Calculator",
-  "short_name": "Tax & FX",
+  "name": "Tax Refund, Currency &amp; Installment Calculator",
+  "short_name": "Tax &amp; FX",
   "description": "Calculate 5% x 81% VAT tax refunds, live Google Finance currency conversions, and 3 to 12 month installment plans.",
   "start_url": "./index.html",
   "scope": "./",
@@ -9,7 +9,11 @@
   "orientation": "portrait",
   "background_color": "#0f172a",
   "theme_color": "#0f172a",
-  "categories": ["finance", "utilities", "shopping"],
+  "categories": [
+    "finance",
+    "utilities",
+    "shopping"
+  ],
   "icons": [
     {
       "src": "./icon.svg",
